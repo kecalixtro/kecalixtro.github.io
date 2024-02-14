@@ -1,0 +1,15 @@
+.flexbox
+{
+    display: flex;
+    border: 1px solid black;
+    height: 10vh;
+    width: 98vw;
+    align-items: center;
+    background-color: white;
+}
+
+#header
+{
+    position: sticky;
+    top: 0;
+}
